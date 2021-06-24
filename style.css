@@ -1,0 +1,78 @@
+body{
+
+background-color:rgb(187 184 161 / 42%);
+padding: 50px;
+margin-top: 15px;
+
+}
+
+#cepforme{
+
+    text-align: center;
+    background-color: white;
+    margin-left: 315px;
+    padding-bottom: 30px;
+    padding-top: 35px;
+    margin-right: 250px;
+    border-radius: 5px;
+      
+}
+
+
+#result{
+
+    background-color: white;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-left: 15px;
+    width: 63%;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    margin-left: 20%;
+    border-radius: 5px; 
+    
+
+}
+
+
+#Cep{
+
+    padding: 15px;
+    border-style: solid, rgb(72, 83, 245);
+    border-radius: 3px;
+    margin-left: 20px;
+    border: solid 2px;
+    border-color: rgb(128, 128, 252) ;    
+    
+    
+}
+
+button{
+
+    padding: 11px;
+    cursor: pointer;
+    background-color: rgb(36, 33, 33);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 15px;
+    border-radius: 3px;
+  
+}
+
+.encon {
+
+    color: rgb(72, 83, 245);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 95%;
+    text-align: center;
+    margin-left: 15px;
+    padding: 5px;
+    
+}
+
+p{
+
+ padding-left: 15px;
+
+}
