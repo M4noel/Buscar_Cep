@@ -18,7 +18,7 @@ Usar um CEP valido e clicar no botão busacar, carregara os dados relacinado ao 
 E mostrara um mensagem "Cep Encontrado"
   
   
-Caso contrario digite um número que não corresponde a um CEP, ira  mostra a mensagem:  ![naoencobntrda](https://user-images.githubusercontent.com/86434035/123346353-769acb00-d52e-11eb-8e19-29b3734c6cf1.png)
+Caso contrário digite um número que não corresponde a um CEP, ira  mostra a mensagem:  ![naoencobntrda](https://user-images.githubusercontent.com/86434035/123346353-769acb00-d52e-11eb-8e19-29b3734c6cf1.png)
 
 
 Tecnologias utilizadas:
