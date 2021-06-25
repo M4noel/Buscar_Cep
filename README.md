@@ -14,7 +14,7 @@ Formulário responsivo  para consulta de CEP com Javascript, usando a resposta d
 ![digite o cppng](https://user-images.githubusercontent.com/86434035/123345179-e78cb380-d52b-11eb-9ceb-f0448c0e12ed.png)
 
 
-Usar um CEP valido e clicar no botão busacar, carregara os dados relacinado ao CEP digitado.![cepcerto](https://user-images.githubusercontent.com/86434035/123345970-9e3d6380-d52d-11eb-8daf-305d30fce2c1.png)
+Usar um CEP valido e clicar no botão buscar, carregara os dados relacionado  ao CEP digitado.![cepcerto](https://user-images.githubusercontent.com/86434035/123345970-9e3d6380-d52d-11eb-8daf-305d30fce2c1.png)
 E mostrara um mensagem "Cep Encontrado"
   
   
