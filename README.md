@@ -1,7 +1,7 @@
 
 
 
-# Buscar_Cep]
+# Buscar_Cep
 Formulário responsivo  para consulta de CEP com Javascript, usando a resposta de uma API 
 
 
@@ -28,7 +28,7 @@ Tecnologias utilizadas:
   - css
   - java script    
 -------------------------
-Desafio Front-end (Estágio)
+
 
 
 
